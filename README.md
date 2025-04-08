@@ -8,7 +8,3 @@ LED_Gravity_Cube is a DIY project featuring a cube with an 8x8 LED matrix on the
 - **ADXL345 digital accelerometer**
 - **HC49 12 MHz quartz crystal**
 - **3 AA batteries**
-
-## Hardware
-
-## Software
